@@ -9,6 +9,7 @@ Deep Learning with TensorFlow + Keras & some sklearn
 9. [Loss Function + Keras MNIST](Notes/lec2.ipynb)<sup> [2023-11-23]</sup>
 2. [Under- & Overfit + Early Stopping](Notes/lec3.ipynb) <sup> [2023-11-24]</sup>
 8. [GD + Optimization algos](Notes/lec4.ipynb) <sup> [2023-11-27] </sup>
+4. [Data Engineering + Regularization](Notes/lec5.ipynb)<sup> [2023-11-29] </sup>
 
 ### **Resources & Excercises**
 
