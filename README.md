@@ -28,13 +28,13 @@ Deep Learning with TensorFlow + Keras & some sklearn
     - [keras.EarlyStopping](https://keras.io/api/callbacks/early_stopping/)
 
 - **Optimizers**
-    - [Comparision of SGD, Adam, RMSprop](Resources/Hyperparameter_tuning.ipynb)
+    - [Comparision of SGD, Adam, RMSprop](Resources/Optimizer_comparision.ipynb)
 
 - **Hyperparam tuning**
-    - [Hyperparameter_tuning.ipynb](Resources/Hyperparameter_tuning.ipynb) **#TODO**
+    - [Hyperparameter_tuning.ipynb](Resources/Hyperparameter_tuning.ipynb)
 
 - **Regularization**
-    - [Regularization_ex_students.ipynb](Resources/Regularization_ex_students.ipynb) **#TODO**
+    - [Regularization_ex_students.ipynb](Resources/Regularization_ex_students.ipynb)
 
 
 ### Explorations
