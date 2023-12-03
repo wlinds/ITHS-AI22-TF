@@ -18,20 +18,29 @@ Deep Learning with TensorFlow + Keras & some sklearn
     - [TF XOR](Resources/xor_tf.ipynb)
 
 - **Gradient Descent**
-    - [Simulation](<Resources/Gradient Descent Simulation Exercise.ipynb>)
+    - [Simulation Excercise](<Resources/Gradient Descent Simulation Exercise.ipynb>)
 
-- **Activation fuctions**
-    - [Testing different activations](Resources/Explore_activation_and_loss.ipynb)
+- **Activation & Loss Fuctions**
+    - [ReLU, Sigmoid, Tahn + Loss Fn Excercise](Resources/Explore_activation_and_loss.ipynb)
 
 - **Network architecture & Keras Callbacks**
     - [EarlyStopping & Underfitting](Resources/Network_architecture_exploration_students.ipynb)
     - [keras.EarlyStopping](https://keras.io/api/callbacks/early_stopping/)
 
 - **Optimizers**
-    - [Optimizer_comparision.ipynb](Hyperparameter_tuning.ipynb) **#TODO**
+    - [Comparision of SGD, Adam, RMSprop](Resources/Hyperparameter_tuning.ipynb)
 
 - **Hyperparam tuning**
     - [Hyperparameter_tuning.ipynb](Resources/Hyperparameter_tuning.ipynb) **#TODO**
 
 - **Regularization**
     - [Regularization_ex_students.ipynb](Resources/Regularization_ex_students.ipynb) **#TODO**
+
+
+### Explorations
+
+- **Keras Models**
+    - [win_rate_prediction model](Explorations/win_rate_prediction.ipynb) #TODO rerun with cleaner data (no duplicates)
+
+
+### Other
