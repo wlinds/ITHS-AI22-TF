@@ -1,5 +1,5 @@
 # ITHS-AI22-TF
-Deep Learning with TensorFlow + Keras & some sklearn
+Deep Learning with TensorFlow + Keras
 
 ---
 
@@ -10,8 +10,16 @@ Deep Learning with TensorFlow + Keras & some sklearn
 2. [Under- & Overfit + Early Stopping](Notes/lec3.ipynb) <sup> [2023-11-24]</sup>
 8. [GD + Optimization algos](Notes/lec4.ipynb) <sup> [2023-11-27] </sup>
 4. [Data Engineering + Regularization](Notes/lec5.ipynb)<sup> [2023-11-29] </sup>
+5. [Data Quality & AI Ethics](Notes/lec6.ipynb)<sup> [2023-12-01] </sup>
+4. [CNN, Kernel/Filters + Pooling](Notes/lec7.ipynb)<sup> [2023-12-04] </sup>
+
+
 
 ### **Resources & Excercises**
+
+- **Convolutional Neural Nets**
+    - [Exploring layer effects](Resources/Exploring_Layer_Effects.ipynb) #TODO
+    - [Visualizing kernels](Resources/Vizualizing_CNN_kernels.ipynb) #TODO
 
 - **XOR Model**
     - [Manual XOR](Resources/xor_manual.ipynb)
@@ -23,18 +31,20 @@ Deep Learning with TensorFlow + Keras & some sklearn
 - **Activation & Loss Fuctions**
     - [ReLU, Sigmoid, Tahn + Loss Fn Excercise](Resources/Explore_activation_and_loss.ipynb)
 
-- **Network architecture & Keras Callbacks**
+- **Network Architecture & Keras Callbacks**
     - [EarlyStopping & Underfitting](Resources/Network_architecture_exploration_students.ipynb)
     - [keras.EarlyStopping](https://keras.io/api/callbacks/early_stopping/)
 
 - **Optimizers**
     - [Comparision of SGD, Adam, RMSprop](Resources/Optimizer_comparision.ipynb)
 
-- **Hyperparam tuning**
+- **Hyperparamaters**
     - [Hyperparameter_tuning.ipynb](Resources/Hyperparameter_tuning.ipynb)
 
 - **Regularization**
     - [Regularization_ex_students.ipynb](Resources/Regularization_ex_students.ipynb)
+
+
 
 
 ### Explorations
