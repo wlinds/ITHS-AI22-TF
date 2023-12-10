@@ -12,14 +12,20 @@ Deep Learning with TensorFlow + Keras
 4. [Data Engineering + Regularization](Notes/lec5.ipynb)<sup> [2023-11-29] </sup>
 5. [Data Quality & AI Ethics](Notes/lec6.ipynb)<sup> [2023-12-01] </sup>
 4. [CNN, Kernel/Filters + Pooling](Notes/lec7.ipynb)<sup> [2023-12-04] </sup>
-
+2. [CNN pt. 2: Stride, Padding, Receptive Field](Notes/lec8.ipynb)<sup> [2023-12-06] </sup>
 
 
 ### **Resources & Excercises**
 
 - **Convolutional Neural Nets**
-    - [Exploring layer effects](Resources/Exploring_Layer_Effects.ipynb) #TODO
-    - [Visualizing kernels](Resources/Vizualizing_CNN_kernels.ipynb) #TODO
+    - [CIFAR10 Custom Model](Resources/Cifar10.ipynb) #TODO
+    - [Exploring Layer Effects](Resources/Exploring_Layer_Effects.ipynb) #TODO
+    - [Visualizing Kernels](Resources/Vizualizing_CNN_kernels.ipynb)
+
+    [Stanford CNN Cheatsheet](https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-convolutional-neural-networks)
+
+- **Data Augmentation**
+    - [Augmentation Excercise](<Resources/Data augmentation exercise.ipynb>) #TODO
 
 - **XOR Model**
     - [Manual XOR](Resources/xor_manual.ipynb)
@@ -33,7 +39,8 @@ Deep Learning with TensorFlow + Keras
 
 - **Network Architecture & Keras Callbacks**
     - [EarlyStopping & Underfitting](Resources/Network_architecture_exploration_students.ipynb)
-    - [keras.EarlyStopping](https://keras.io/api/callbacks/early_stopping/)
+    
+    [keras.EarlyStopping](https://keras.io/api/callbacks/early_stopping/)
 
 - **Optimizers**
     - [Comparision of SGD, Adam, RMSprop](Resources/Optimizer_comparision.ipynb)
@@ -45,12 +52,10 @@ Deep Learning with TensorFlow + Keras
     - [Regularization_ex_students.ipynb](Resources/Regularization_ex_students.ipynb)
 
 
-
-
 ### Explorations
 
 - **Keras Models**
-    - [win_rate_prediction model](Explorations/win_rate_prediction.ipynb) #TODO rerun with cleaner data (no duplicates)
-
+    - [win_rate_prediction model](Explorations/win_rate_prediction.ipynb)
 
 ### Other
+- [Flower CNN (Keras Tutorial)](Labb/labb1.ipynb)
