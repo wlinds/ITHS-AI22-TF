@@ -13,6 +13,8 @@ Deep Learning with TensorFlow + Keras
 5. [Data Quality & AI Ethics](Notes/lec6.ipynb)<sup> [2023-12-01] </sup>
 4. [CNN, Kernel/Filters + Pooling](Notes/lec7.ipynb)<sup> [2023-12-04] </sup>
 2. [CNN pt. 2: Stride, Padding, Receptive Field](Notes/lec8.ipynb)<sup> [2023-12-06] </sup>
+2. [From ML Idea to Production](Notes/lec9.ipynb)<sup> [2023-12-11] </sup>
+2. [Transfer Learning: Feature Extraction & Fine Tuning](Notes/lec10.ipynb)<sup> [2023-12-11] </sup>
 
 
 ### **Resources & Excercises**
@@ -54,8 +56,11 @@ Deep Learning with TensorFlow + Keras
 
 ### Explorations
 
-- **Keras Models**
+- **Models**
     - [win_rate_prediction model](Explorations/win_rate_prediction.ipynb)
+    - A [Card Wars](https://github.com/wlinds/card_wars) Prediction model #Keras
 
 ### Other
-- [Flower CNN (Keras Tutorial)](Labb/labb1.ipynb)
+- **Models**
+    - [Convolutional Neural Network with 6.5M Parameters](Labb/labb1.ipynb)
+    - A Flower Recognition model #Keras #CNN
