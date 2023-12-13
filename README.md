@@ -15,7 +15,7 @@ Deep Learning with TensorFlow + Keras
 2. [CNN pt. 2: Stride, Padding, Receptive Field](Notes/lec8.ipynb)<sup> [2023-12-06] </sup>
 2. [From ML Idea to Production](Notes/lec9.ipynb)<sup> [2023-12-11] </sup>
 2. [Transfer Learning: Feature Extraction & Fine Tuning](Notes/lec10.ipynb)<sup> [2023-12-11] </sup>
-1. [Recurrent NNs: NLP, LSTM, GNU](Notes/lec11.ipynb)<sup> [2023-12-13]</sup>
+1. [Recurrent NNs: NLP, LSTM, GRU](Notes/lec11.ipynb)<sup> [2023-12-13]</sup>
 
 
 ### **Resources & Excercises**
