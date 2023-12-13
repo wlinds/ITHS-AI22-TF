@@ -15,6 +15,7 @@ Deep Learning with TensorFlow + Keras
 2. [CNN pt. 2: Stride, Padding, Receptive Field](Notes/lec8.ipynb)<sup> [2023-12-06] </sup>
 2. [From ML Idea to Production](Notes/lec9.ipynb)<sup> [2023-12-11] </sup>
 2. [Transfer Learning: Feature Extraction & Fine Tuning](Notes/lec10.ipynb)<sup> [2023-12-11] </sup>
+1. [Recurrent NNs: NLP, LSTM, GNU](Notes/lec11.ipynb)<sup> [2023-12-13]</sup>
 
 
 ### **Resources & Excercises**
@@ -64,3 +65,9 @@ Deep Learning with TensorFlow + Keras
 - **Models**
     - [Convolutional Neural Network with 6.5M Parameters](Labb/labb1.ipynb)
     - A Flower Recognition model #Keras #CNN
+
+
+### Further Reading & Links
+
+[DataRevenue: Machine Learning Architecture: The Core Components](https://www.datarevenue.com/en-blog/machine-learning-project-architecture)
+[Medium: Architecture of a real-world Machine Learning system](https://medium.com/louis-dorard/architecture-of-a-real-world-machine-learning-system-795254bec646)
