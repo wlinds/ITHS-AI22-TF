@@ -16,9 +16,14 @@ Deep Learning with TensorFlow + Keras
 2. [From ML Idea to Production](Notes/lec9.ipynb)<sup> [2023-12-11] </sup>
 2. [Transfer Learning: Feature Extraction & Fine Tuning](Notes/lec10.ipynb)<sup> [2023-12-11] </sup>
 1. [Recurrent NNs: NLP, LSTM, GRU](Notes/lec11.ipynb)<sup> [2023-12-13]</sup>
+3. [Introduction to Generative AI](Notes/lec12.ipynb)<sup> [2024-01-08]</sup>
 
 
 ### **Resources & Excercises**
+
+- **Generative Adversarial Nets**
+- [GAN: Image Generatio (Trained on bir**b**s)](Resources/gan-notebooks/bird-gan-task.ipynb) #TODO
+- [GAN: Image Generation (Trained on MNIST)](Resources/gan-notebooks/numbers-gan.ipynb) #TODO
 
 - **Convolutional Neural Nets**
     - [CIFAR10 Custom Model](Resources/Cifar10.ipynb) #TODO
@@ -57,15 +62,19 @@ Deep Learning with TensorFlow + Keras
 
 ### Explorations
 
-- **Models**
-    - [win_rate_prediction model](Explorations/win_rate_prediction.ipynb)
-    - A [Card Wars](https://github.com/wlinds/card_wars) Prediction model #Keras
+[win_rate_prediction model](Explorations/win_rate_prediction.ipynb)<br>
+*A [Card Wars](https://github.com/wlinds/card_wars) Prediction model with Keras.*
 
-### Other
-- **Models**
-    - [Convolutional Neural Network with 6.5M Parameters](Labb/labb1.ipynb)
+[Gated Recurrent Unit (GRU) exploration](Explorations/gru.ipynb)<br>
+Sentiment model trained on IMDB Reviews
+
+
+### Other Models
+
+[Convolutional NN with 6.5M Parameters](Labb/labb1.ipynb)
     - A Flower Recognition model #Keras #CNN
 
+[Recurrent NN: Emotion Classification Model](Labb/labb2.ipynb) - Deadline 15 jan
 
 ### Further Reading & Links
 
