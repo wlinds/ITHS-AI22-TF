@@ -22,7 +22,7 @@ Deep Learning with TensorFlow + Keras
 ### **Resources & Excercises**
 
 - **Generative Adversarial Nets**
-- [GAN: Image Generatio (Trained on bir**b**s)](Resources/gan-notebooks/bird-gan-task.ipynb) #TODO
+- [GAN: Image Generation (Trained on bir**b**s)](Resources/gan-notebooks/bird-gan-task.ipynb) #TODO
 - [GAN: Image Generation (Trained on MNIST)](Resources/gan-notebooks/numbers-gan.ipynb) #TODO
 
 - **Convolutional Neural Nets**
@@ -66,17 +66,18 @@ Deep Learning with TensorFlow + Keras
 *A [Card Wars](https://github.com/wlinds/card_wars) Prediction model with Keras.*
 
 [Gated Recurrent Unit (GRU) exploration](Explorations/gru.ipynb)<br>
-Sentiment model trained on IMDB Reviews
+*NLP sentiment prediction model trained on IMDB Reviews*
 
 
 ### Other Models
 
-[Convolutional NN with 6.5M Parameters](Labb/labb1.ipynb)
-    - A Flower Recognition model #Keras #CNN
+[Convolutional NN with 6.5M Parameters](Labb/labb1.ipynb)<br>
+*A Flower Recognition model* #Keras #CNN
 
-[Recurrent NN: Emotion Classification Model](Labb/labb2.ipynb) - Deadline 15 jan
+[Recurrent NN: Emotion Classification Model](Labb/labb2.ipynb)<br>
+*Deadline 15 jan*
 
 ### Further Reading & Links
 
-[DataRevenue: Machine Learning Architecture: The Core Components](https://www.datarevenue.com/en-blog/machine-learning-project-architecture)
+[DataRevenue: Machine Learning Architecture: The Core Components](https://www.datarevenue.com/en-blog/machine-learning-project-architecture)<br>
 [Medium: Architecture of a real-world Machine Learning system](https://medium.com/louis-dorard/architecture-of-a-real-world-machine-learning-system-795254bec646)
