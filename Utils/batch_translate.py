@@ -7,14 +7,13 @@ from deep_translator import GoogleTranslator
 def translate_text(text, target_language='sv'):
     translation = GoogleTranslator(target=target_language).translate(text)
     return translation
-
-def batch_translate_csv(input_csv, output_csv, col='text'):
+def batch_translate_csv(input_csv, output_csv, col='text', start_row=0):
     df = pd.read_csv(input_csv)
 
     if col not in df.columns:
         raise ValueError(f"'{col}' not found.")
 
-    for i in tqdm(range(len(df)), desc='Translating rows'):
+    for i in tqdm(range(start_row, len(df)), desc='Translating rows'):
         row = df.iloc[i]
         row[col] = translate_text(row[col])
 
