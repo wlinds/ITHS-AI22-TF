@@ -3,6 +3,23 @@ Deep Learning with TensorFlow + Keras
 
 ---
 
+### My Favorite Models & Notebooks
+
+🌻 [Convolutional NN: 6.5M Parameters](Projects/1_Flower-Image_Recognition_CNN.ipynb)<br>
+*A Flower Recognition Model* #Keras #CNN
+
+🎭 [Recurrent NN: Emotion Classification Model](Projects/2_Sentiment-Text_Classification_RNN.ipynb)<br>
+*A Text Sentiment Classification Model* #Keras #RNN #GRU
+
+🌊 [Convolutional NN: Image Classification Model](Projects/3_Algae-Image_Classification_CNN.ipynb)<br>
+*A Study of Algae in The Baltic Sea* #pyTorch #CNN
+
+🃏 [Simple Feedforward NN: Win Rate Prediction Model](Explorations/win_rate_prediction.ipynb)<br>
+*A [Card Wars](https://github.com/wlinds/card_wars) Regression Model for deck building* #Keras
+
+🎥 [Gated Recurrent Unit Exploration](Explorations/gru.ipynb)<br>
+*A Sentiment Prediction Model trained on IMDB Reviews* #GRU #NLP
+
 ### **Lecture Notes**
 
 1. [History + General Introduction](Notes/lec1.ipynb)<sup> [2023-11-22]</sup>
@@ -17,6 +34,7 @@ Deep Learning with TensorFlow + Keras
 2. [Transfer Learning: Feature Extraction & Fine Tuning](Notes/lec10.ipynb)<sup> [2023-12-11] </sup>
 1. [Recurrent NNs: NLP, LSTM, GRU](Notes/lec11.ipynb)<sup> [2023-12-13]</sup>
 3. [Introduction to Generative AI](Notes/lec12.ipynb)<sup> [2024-01-08]</sup>
+69. [Modern Generative AI & Prompt Engineering](Notes/lec13.ipynb)<sup> [2024-01-10]</sup>
 
 
 ### **Resources & Excercises**
@@ -60,22 +78,7 @@ Deep Learning with TensorFlow + Keras
     - [Regularization_ex_students.ipynb](Resources/Regularization_ex_students.ipynb)
 
 
-### Explorations
 
-[win_rate_prediction model](Explorations/win_rate_prediction.ipynb)<br>
-*A [Card Wars](https://github.com/wlinds/card_wars) Prediction model with Keras.*
-
-[Gated Recurrent Unit (GRU) exploration](Explorations/gru.ipynb)<br>
-*NLP sentiment prediction model trained on IMDB Reviews*
-
-
-### Other Models
-
-[Convolutional NN with 6.5M Parameters](Labb/labb1.ipynb)<br>
-*A Flower Recognition model* #Keras #CNN
-
-[Recurrent NN: Emotion Classification Model](Labb/labb2.ipynb)<br>
-*Deadline 15 jan*
 
 ### Further Reading & Links
 
